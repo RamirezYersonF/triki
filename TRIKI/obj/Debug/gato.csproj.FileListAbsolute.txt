@@ -1,0 +1,23 @@
+C:\Users\Don Memor\source\repos\gato\gato\bin\Debug\gato.exe.config
+C:\Users\Don Memor\source\repos\gato\gato\bin\Debug\gato.exe
+C:\Users\Don Memor\source\repos\gato\gato\bin\Debug\gato.pdb
+C:\Users\Don Memor\source\repos\gato\gato\obj\Debug\gato.csproj.AssemblyReference.cache
+C:\Users\Don Memor\source\repos\gato\gato\obj\Debug\gato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Don Memor\source\repos\gato\gato\obj\Debug\gato.Form1.resources
+C:\Users\Don Memor\source\repos\gato\gato\obj\Debug\gato.Properties.Resources.resources
+C:\Users\Don Memor\source\repos\gato\gato\obj\Debug\gato.csproj.GenerateResource.cache
+C:\Users\Don Memor\source\repos\gato\gato\obj\Debug\gato.csproj.CoreCompileInputs.cache
+C:\Users\Don Memor\source\repos\gato\gato\obj\Debug\gato.exe
+C:\Users\Don Memor\source\repos\gato\gato\obj\Debug\gato.pdb
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\bin\Debug\gato.exe.config
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\bin\Debug\gato.exe
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\bin\Debug\gato.pdb
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\obj\Debug\gato.csproj.AssemblyReference.cache
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\obj\Debug\gato.csproj.SuggestedBindingRedirects.cache
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\obj\Debug\gato.Form1.resources
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\obj\Debug\gato.Properties.Resources.resources
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\obj\Debug\gato.csproj.GenerateResource.cache
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\obj\Debug\gato.csproj.CoreCompileInputs.cache
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\obj\Debug\gato.exe
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\obj\Debug\gato.pdb
+C:\Users\yfrg-\OneDrive\Escritorio\gato\gato\obj\Debug\gato.Form2.resources
